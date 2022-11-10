@@ -1,4 +1,5 @@
 "use strict";
+
 let ladder = {
     step: 0,
     up() {
@@ -9,7 +10,7 @@ let ladder = {
       this.step--;
       return this;
     },
-    showStep() {
+    showStep() { //Esto muestra el floor atual 
       alert( this.step );
       return this;
     }
