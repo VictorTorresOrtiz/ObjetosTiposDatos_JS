@@ -2,7 +2,7 @@
 
 let salaries = {
     Harry: 100,
-  Ron 160,
+  Ron: 160,
   Hermione: 130
   };
   
