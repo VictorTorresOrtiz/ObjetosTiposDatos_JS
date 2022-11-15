@@ -13,8 +13,10 @@ function randomInteger(min, max) {
   alert( randomInteger(1, 3) );
 
   /*RESULTADOS 
-2valores desde 1  ... hasta 1.9999999999 = 1
+valores desde 1  ... hasta 1.9999999999 = 1
 valores desde 2  ... hasta 2.9999999999 = 2
 valores desde 3  ... hasta 3.9999999999 = 3
+
+Es decir todos los intervalos tienen el mismo largo
   
  */
